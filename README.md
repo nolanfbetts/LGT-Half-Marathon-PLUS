@@ -49,20 +49,20 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 
 **Week 1: March 17-23 (Base Building)**
 - Monday: Rest day
-- Tuesday: 3 mile easy run (9:30-10:00/mile)
+- Tuesday: 5km easy run (5:45-6:15/km)
 - Wednesday: Cross training (45 min) + strength
-- Thursday: 4 mile tempo run with hills
+- Thursday: 6.5km tempo run with hills
 - Friday: Rest day
-- Saturday: 6 mile long run
+- Saturday: 10km long run
 - Sunday: Active recovery walk (30 min)
 
 **Week 2: March 24-30 (Building Volume)**
 - Monday: Rest day
-- Tuesday: 4 mile easy run (9:30-10:00/mile)
+- Tuesday: 6.5km easy run (5:45-6:15/km)
 - Wednesday: Cross training (45 min) + strength
-- Thursday: 5 mile tempo run with hills
+- Thursday: 8km tempo run with hills
 - Friday: Rest day
-- Saturday: 7 mile long run
+- Saturday: 11km long run
 - Sunday: Active recovery walk (30 min)
 
 #### April 2025 (Building Phase)
@@ -76,47 +76,47 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 
 **Week 3: March 31-April 6**
 - Monday: Rest day
-- Tuesday: 5 mile easy run
+- Tuesday: 8km easy run
 - Wednesday: Cross training (50 min) + strength
-- Thursday: 6 mile tempo run with hills
+- Thursday: 10km tempo run with hills
 - Friday: Rest day
-- Saturday: 8 mile long run
+- Saturday: 13km long run
 - Sunday: Active recovery walk (30 min)
 
 **Week 4: April 7-13**
 - Monday: Rest day
-- Tuesday: 5 mile easy run
+- Tuesday: 8km easy run
 - Wednesday: Cross training (50 min) + strength
-- Thursday: 6 mile hill repeats
+- Thursday: 10km hill repeats
 - Friday: Rest day
-- Saturday: 9 mile long run
+- Saturday: 14.5km long run
 - Sunday: Active recovery walk (40 min)
 
 **Week 5: April 14-20**
 - Monday: Rest day
-- Tuesday: 6 mile easy run
+- Tuesday: 10km easy run
 - Wednesday: Cross training (60 min) + strength
-- Thursday: 7 mile tempo run with hills
+- Thursday: 11km tempo run with hills
 - Friday: Rest day
-- Saturday: 10 mile long run
+- Saturday: 16km long run
 - Sunday: Active recovery walk (40 min)
 
 **Week 6: April 21-27**
 - Monday: Rest day
-- Tuesday: 6 mile easy run
+- Tuesday: 10km easy run
 - Wednesday: Cross training (60 min) + strength
-- Thursday: 7 mile hill repeats
+- Thursday: 11km hill repeats
 - Friday: Rest day
-- Saturday: 11 mile long run
+- Saturday: 18km long run
 - Sunday: Active recovery walk (40 min)
 
 **Week 7: April 28-May 4**
 - Monday: Rest day
-- Tuesday: 7 mile easy run
+- Tuesday: 11km easy run
 - Wednesday: Cross training (60 min) + strength
-- Thursday: 8 mile tempo run with hills
+- Thursday: 13km tempo run with hills
 - Friday: Rest day
-- Saturday: 12 mile long run
+- Saturday: 19km long run
 - Sunday: Active recovery walk (45 min)
 
 #### May 2025 (Peak Phase)
@@ -130,38 +130,38 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 
 **Week 8: May 5-11 (Peak Week)**
 - Monday: Rest day
-- Tuesday: 7 mile easy run
+- Tuesday: 11km easy run
 - Wednesday: Cross training (60 min) + strength
-- Thursday: 8 mile mountain trail run
+- Thursday: 13km mountain trail run
 - Friday: Rest day
-- Saturday: 14 mile long run
+- Saturday: 22.5km long run
 - Sunday: Active recovery walk (45 min)
 
 **Week 9: May 12-18**
 - Monday: Rest day
-- Tuesday: 8 mile easy run
+- Tuesday: 13km easy run
 - Wednesday: Cross training (60 min) + strength
-- Thursday: 9 mile mountain trail run
+- Thursday: 14.5km mountain trail run
 - Friday: Rest day
-- Saturday: 15 mile long run
+- Saturday: 24km long run
 - Sunday: Active recovery walk (45 min)
 
 **Week 10: May 19-25**
 - Monday: Rest day
-- Tuesday: 8 mile easy run
+- Tuesday: 13km easy run
 - Wednesday: Cross training (45 min) + strength
-- Thursday: 8 mile tempo run with hills
+- Thursday: 13km tempo run with hills
 - Friday: Rest day
-- Saturday: 12 mile long run
+- Saturday: 19km long run
 - Sunday: Active recovery walk (40 min)
 
 **Week 11: May 26-June 1 (Taper Begins)**
 - Monday: Rest day
-- Tuesday: 6 mile easy run
+- Tuesday: 10km easy run
 - Wednesday: Cross training (45 min) + light strength
-- Thursday: 6 mile tempo run
+- Thursday: 10km tempo run
 - Friday: Rest day
-- Saturday: 10 mile long run
+- Saturday: 16km long run
 - Sunday: Active recovery walk (30 min)
 
 #### June 2025 (Race Month)
@@ -173,19 +173,19 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 
 **Week 12: June 2-8 (Race Week)**
 - Monday: Rest day
-- Tuesday: 4 mile easy run
+- Tuesday: 6.5km easy run
 - Wednesday: Light cross training (30 min)
-- Thursday: 3 mile easy run
+- Thursday: 5km easy run
 - Friday: Rest day
-- Saturday: 2 mile shakeout run
+- Saturday: 3km shakeout run
 - Sunday: Rest day
 
 **Race Week: June 9-14**
-- Monday: 2 mile easy run
+- Monday: 3km easy run
 - Tuesday: Light cross training (20 min)
-- Wednesday: 2 mile easy run
+- Wednesday: 3km easy run
 - Thursday: Rest day
-- Friday: 1 mile shakeout run
+- Friday: 2km shakeout run
 - Saturday: RACE DAY! 🏃‍♂️
 
 *Race Day - June 14th, 2025
