@@ -174,56 +174,75 @@ h4 {
   margin: 2rem 0;
 }
 
-.calendar-month h4 {
-  margin: 0 0 1.5rem 0;
-  color: var(--primary-color);
-  text-align: center;
-  font-size: 1.5rem;
-  border-bottom: 2px solid var(--secondary-color);
+.month-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
   padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--secondary-color);
 }
 
-.calendar-month table {
+.month-header h4 {
+  margin: 0;
+  color: var(--primary-color);
+  font-size: 1.5rem;
+}
+
+.phase-label {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background-color: var(--secondary-color);
+  color: white;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+.calendar-grid {
+  margin: 1.5rem 0;
+}
+
+.calendar-grid table {
   width: 100%;
   border-collapse: separate;
-  border-spacing: 2px;
-  margin: 1rem 0 2rem 0;
+  border-spacing: 3px;
   background: var(--background-color);
 }
 
-.calendar-month th,
-.calendar-month td {
-  text-align: center;
-  padding: 0.75rem;
-  border-radius: 4px;
-  font-size: 0.95rem;
-}
-
-.calendar-month th {
+.calendar-grid th {
   background-color: var(--primary-color);
   color: white;
+  padding: 0.75rem;
   font-weight: 600;
+  border-radius: 4px;
+  font-size: 0.9rem;
 }
 
-.calendar-month td {
+.calendar-grid td {
   background-color: white;
+  padding: 0.75rem;
+  text-align: center;
+  border-radius: 4px;
   border: 1px solid var(--border-color);
-  transition: background-color 0.2s;
+  font-size: 0.9rem;
+  transition: all 0.2s;
 }
 
-.calendar-month td:hover {
-  background-color: #f0f7ff;
-}
-
-.calendar-month td.empty {
+.calendar-grid td.empty {
   background-color: var(--background-color);
   border: none;
 }
 
-.calendar-month td.today {
+.calendar-grid td:not(.empty):hover {
+  background-color: #f0f7ff;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.calendar-grid td.highlight {
   background-color: #e3f2fd;
-  font-weight: bold;
   border: 2px solid var(--secondary-color);
+  font-weight: bold;
 }
 
 /* Training Week */
@@ -231,48 +250,58 @@ h4 {
   background-color: white;
   padding: 1.5rem;
   border-radius: 8px;
-  border-left: 4px solid var(--secondary-color);
   margin: 1.5rem 0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  border-left: 4px solid var(--secondary-color);
 }
 
-.training-week strong {
-  display: block;
+.training-week-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-bottom: 1rem;
-  color: var(--primary-color);
-  font-size: 1.1rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--border-color);
 }
 
-.training-week ul {
-  list-style-type: none;
-  padding-left: 0;
+.training-week-header h4 {
   margin: 0;
+  color: var(--primary-color);
+  font-size: 1.1rem;
+}
+
+.training-week-phase {
+  font-size: 0.9rem;
+  color: var(--secondary-color);
+}
+
+.workout-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem;
 }
 
-.training-week li {
-  padding: 0.75rem;
+.workout-card {
   background-color: var(--background-color);
-  border-radius: 4px;
+  padding: 1rem;
+  border-radius: 6px;
   border: 1px solid var(--border-color);
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.training-week li:hover {
+.workout-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.training-week li strong {
+.workout-day {
   color: var(--secondary-color);
-  border-bottom: none;
-  padding-bottom: 0;
-  margin-bottom: 0.25rem;
-  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.workout-details {
+  color: var(--text-color);
 }
 
 /* Month Navigation */
@@ -289,16 +318,6 @@ h4 {
 .month-navigation h3 {
   margin: 0;
   color: var(--primary-color);
-}
-
-.phase-label {
-  display: inline-block;
-  padding: 0.25rem 0.75rem;
-  background-color: var(--secondary-color);
-  color: white;
-  border-radius: 20px;
-  font-size: 0.9rem;
-  margin-left: 1rem;
 }
 
 /* Training Notes */
@@ -385,9 +404,19 @@ a:hover {
     padding: 1rem;
   }
   
-  .calendar-month td,
-  .calendar-month th {
+  .workout-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .calendar-grid td,
+  .calendar-grid th {
     padding: 0.5rem;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
+  }
+  
+  .month-header {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-start;
   }
 } 
