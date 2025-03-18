@@ -22,46 +22,63 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 
 ## Event Details
 
-- **Location**: Liechtenstein
-- **Distance**: 25 km (Half Marathon Plus)
-- **Event Type**: Running Race
-- **Date**: June, 14th 2025 (9:00 a.m.)
+<div class="event-details">
+<dl>
+  <dt>Location</dt>
+  <dd>Liechtenstein</dd>
+  <dt>Distance</dt>
+  <dd>25 km (Half Marathon Plus)</dd>
+  <dt>Event Type</dt>
+  <dd>Running Race</dd>
+  <dt>Date</dt>
+  <dd>June, 14th 2025 (9:00 a.m.)</dd>
+</dl>
+</div>
 
 ## Course Information
 
-- **Elevation Gain**: ~1121m (~3678ft)
-- **Distance**: 25km (~15.5mi)
-- **Trail Map**: [View on AllTrails](https://www.alltrails.com/explore/recording/lgt-liechtenstein-marathon--3?u=i)
+<div class="event-details">
+<dl>
+  <dt>Elevation Gain</dt>
+  <dd>~1121m (~3678ft)</dd>
+  <dt>Distance</dt>
+  <dd>25km (~15.5mi)</dd>
+  <dt>Trail Map</dt>
+  <dd><a href="https://www.alltrails.com/explore/recording/lgt-liechtenstein-marathon--3?u=i" target="_blank">View on AllTrails</a></dd>
+</dl>
+</div>
 
 ### Course Maps
 
 #### Elevation Profile
 <div class="map-container">
-  <img src="/assets/images/lgt.jpg" alt="LGT Half Marathon PLUS Elevation Profile">
+  <img src="{{ site.baseurl }}/assets/images/lgt.jpg" alt="LGT Half Marathon PLUS Elevation Profile">
 </div>
 
 #### Route Map
 <div class="map-container">
-  <img src="/assets/images/lgt_map.jpg" alt="LGT Route Map">
+  <img src="{{ site.baseurl }}/assets/images/lgt_map.jpg" alt="LGT Route Map">
 </div>
 
 ## Training Information
 
 ### Training Overview
 <div class="training-overview">
-This 12-week training plan is designed to prepare you for the LGT Half Marathon PLUS, with a focus on building endurance and hill strength. The plan includes:
-- 3-4 running days per week
-- 1-2 cross-training days
-- 1 rest day
-- 1 active recovery day
-- Progressive long runs
-- Hill training incorporated into tempo runs
+<p>This 12-week training plan is designed to prepare you for the LGT Half Marathon PLUS, with a focus on building endurance and hill strength. The plan includes:</p>
+<ul>
+  <li>3-4 running days per week</li>
+  <li>1-2 cross-training days</li>
+  <li>1 rest day</li>
+  <li>1 active recovery day</li>
+  <li>Progressive long runs</li>
+  <li>Hill training incorporated into tempo runs</li>
+</ul>
 </div>
 
 ### Training Calendar
 
 <div class="calendar-month">
-#### March 2025 (Training Start)
+<h4>March 2025 (Training Start)</h4>
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     |     |     |     |     |
@@ -71,14 +88,16 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 | 31  |     |     |     |     |     |     |
 
 <div class="training-week">
-**Week 1: March 17-23 (Base Building)**
-- Monday: Rest day
-- Tuesday: 5km easy run (5:45-6:15/km)
-- Wednesday: Cross training (45 min) + strength
-- Thursday: 6.5km tempo run with hills
-- Friday: Rest day
-- Saturday: 10km long run
-- Sunday: Active recovery walk (30 min)
+<strong>Week 1: March 17-23 (Base Building)</strong>
+<ul>
+  <li>Monday: Rest day</li>
+  <li>Tuesday: 5km easy run (5:45-6:15/km)</li>
+  <li>Wednesday: Cross training (45 min) + strength</li>
+  <li>Thursday: 6.5km tempo run with hills</li>
+  <li>Friday: Rest day</li>
+  <li>Saturday: 10km long run</li>
+  <li>Sunday: Active recovery walk (30 min)</li>
+</ul>
 </div>
 
 <div class="training-week">
@@ -222,13 +241,15 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 {: #training-notes }
 
 <div class="training-notes">
-- All easy runs should be at a conversational pace
-- Tempo runs include hill work to prepare for the course elevation
-- Cross training can include cycling, swimming, or elliptical
-- Strength training should focus on legs and core
-- Adjust paces and distances based on your fitness level
-- Stay hydrated and practice nutrition during long runs
-- Get adequate rest and recovery between sessions
+<ul>
+  <li>All easy runs should be at a conversational pace</li>
+  <li>Tempo runs include hill work to prepare for the course elevation</li>
+  <li>Cross training can include cycling, swimming, or elliptical</li>
+  <li>Strength training should focus on legs and core</li>
+  <li>Adjust paces and distances based on your fitness level</li>
+  <li>Stay hydrated and practice nutrition during long runs</li>
+  <li>Get adequate rest and recovery between sessions</li>
+</ul>
 </div>
 
 --- 

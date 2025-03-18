@@ -1,9 +1,24 @@
 @import "{{ site.theme }}";
 
-/* Global styles */
+/* Global Styles */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --background-color: #f8f9fa;
+  --text-color: #333;
+  --border-color: #ddd;
+  --header-font: 'Helvetica Neue', Arial, sans-serif;
+  --body-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6;
+  font-family: var(--body-font);
+  line-height: 1.6;
+  color: var(--text-color);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: var(--background-color);
 }
 
 /* Header styles */
@@ -11,6 +26,7 @@ body {
     background: linear-gradient(120deg, #155799, #159957);
     padding: 3rem 1rem;
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 .page-header h1 {
@@ -20,162 +36,271 @@ body {
     font-weight: 600;
 }
 
-/* Navigation styles */
+/* Navigation */
 .main-nav {
-    margin: 2rem 0;
-    padding: 1rem;
-    background: #f8f9fa;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 .main-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
 }
 
 .main-nav a {
-    color: #1e6bb8;
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    transition: background-color 0.2s;
+  color: var(--primary-color);
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
 }
 
 .main-nav a:hover {
-    background-color: #e9ecef;
+  background-color: var(--secondary-color);
+  color: white;
 }
 
-/* Content styles */
-.main-content {
-    max-width: 64rem;
-    margin: 0 auto;
-    padding: 2rem;
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--header-font);
+  color: var(--primary-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.3;
 }
 
-.main-content h2 {
-    color: #159957;
-    margin-top: 3rem;
-    padding-bottom: 0.3rem;
-    border-bottom: 1px solid #eaecef;
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  border-bottom: 3px solid var(--secondary-color);
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
-.main-content h3 {
-    color: #155799;
-    margin-top: 2rem;
+h2 {
+  font-size: 2rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.5rem;
 }
 
-/* Table styles */
-table {
-    margin: 1.5rem 0;
-    border-collapse: separate;
-    border-spacing: 0;
-    width: 100%;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
+h3 {
+  font-size: 1.5rem;
+  color: var(--secondary-color);
 }
 
-th, td {
-    border: 1px solid #ddd;
-    padding: 12px 8px;
-    text-align: center;
+h4 {
+  font-size: 1.25rem;
 }
 
-th {
-    background-color: #f8f9fa;
-    font-weight: 600;
+/* Content Sections */
+.event-details {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
 }
 
-tr:nth-child(even) {
-    background-color: #f8f9fa;
+.event-details dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  margin: 0;
 }
 
-/* Training week styles */
-.training-week {
-    background: #f8f9fa;
-    padding: 1.5rem;
-    margin: 1.5rem 0;
-    border-radius: 8px;
-    border-left: 4px solid #159957;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+.event-details dt {
+  font-weight: bold;
+  color: var(--primary-color);
 }
 
-.training-week h4 {
-    color: #155799;
-    margin-top: 0;
-    margin-bottom: 1rem;
+.event-details dd {
+  margin: 0;
 }
 
-/* Calendar styles */
+.map-container {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
+}
+
+.map-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Training Section */
+.training-overview {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
+}
+
+.training-overview ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.training-overview li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.training-overview li:last-child {
+  border-bottom: none;
+}
+
+/* Calendar */
 .calendar-month {
-    margin: 2rem 0;
-    padding: 1rem;
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
 }
 
 .calendar-month h4 {
-    color: #155799;
-    margin-bottom: 1rem;
+  margin-top: 0;
+  color: var(--secondary-color);
+  text-align: center;
 }
 
-/* Image styles */
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin: 1.5rem 0;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+.calendar-month table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
 }
 
-/* Training notes */
+.calendar-month th,
+.calendar-month td {
+  text-align: center;
+  padding: 0.75rem;
+  border: 1px solid var(--border-color);
+}
+
+.calendar-month th {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+/* Training Week */
+.training-week {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid var(--secondary-color);
+  margin: 1.5rem 0;
+}
+
+.training-week strong {
+  display: block;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+.training-week ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.training-week li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.training-week li:last-child {
+  border-bottom: none;
+}
+
+/* Training Notes */
 .training-notes {
-    background: #f8f9fa;
-    padding: 1.5rem;
-    margin: 2rem 0;
-    border-radius: 8px;
-    border: 1px solid #e9ecef;
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
 }
 
 .training-notes ul {
-    margin-bottom: 0;
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
 }
 
-/* Responsive design */
-@media screen and (max-width: 768px) {
-    .page-header {
-        padding: 2rem 1rem;
-    }
-    
-    .page-header h1 {
-        font-size: 2rem;
-    }
-    
-    .main-content {
-        padding: 1rem;
-    }
-    
-    .main-nav ul {
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    table {
-        font-size: 0.9rem;
-    }
-    
-    th, td {
-        padding: 8px 4px;
-    }
-    
-    .training-week {
-        padding: 1rem;
-    }
+.training-notes li {
+  padding: 0.5rem 0;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.training-notes li:before {
+  content: "•";
+  color: var(--secondary-color);
+  position: absolute;
+  left: 0;
+}
+
+/* Links */
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+
+  .main-nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .event-details dl {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .event-details dt {
+    margin-top: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
 } 
