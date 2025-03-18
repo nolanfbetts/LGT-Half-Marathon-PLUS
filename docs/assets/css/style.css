@@ -363,12 +363,31 @@ a:hover {
 /* Responsive Design */
 @media (max-width: 768px) {
   body {
-    padding: 15px;
+    padding: 10px;
+  }
+
+  .main-nav {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
   }
 
   .main-nav ul {
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 5px;
+    gap: 0.5rem;
+    justify-content: flex-start;
+  }
+
+  .main-nav li {
+    flex: 0 0 auto;
+  }
+
+  .main-nav a {
+    padding: 0.35rem 0.75rem;
+    font-size: 0.9rem;
+    white-space: nowrap;
   }
 
   .event-details dl {
