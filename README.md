@@ -26,43 +26,178 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 ![LGT Route Map](./lgt_map.jpg)
 
 ## Training Information
+
+### Training Overview
+This 12-week training plan is designed to prepare you for the LGT Half Marathon PLUS, with a focus on building endurance and hill strength. The plan includes:
+- 3-4 running days per week
+- 1-2 cross-training days
+- 1 rest day
+- 1 active recovery day
+- Progressive long runs
+- Hill training incorporated into tempo runs
+
 ### Training Calendar
 
-#### March 2025
+#### March 2025 (Training Start)
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |
 | 17  | 18  | 19  | 20  | 21  | 22  | 23  |
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | 31  |     |     |     |     |     |     |
 
-#### April 2025
+**Week 1: March 17-23 (Base Building)**
+- Monday: Rest day
+- Tuesday: 3 mile easy run (9:30-10:00/mile)
+- Wednesday: Cross training (45 min) + strength
+- Thursday: 4 mile tempo run with hills
+- Friday: Rest day
+- Saturday: 6 mile long run
+- Sunday: Active recovery walk (30 min)
+
+**Week 2: March 24-30 (Building Volume)**
+- Monday: Rest day
+- Tuesday: 4 mile easy run (9:30-10:00/mile)
+- Wednesday: Cross training (45 min) + strength
+- Thursday: 5 mile tempo run with hills
+- Friday: Rest day
+- Saturday: 7 mile long run
+- Sunday: Active recovery walk (30 min)
+
+#### April 2025 (Building Phase)
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | 21  | 22  | 23  | 24  | 25  | 26  | 27  |
 | 28  | 29  | 30  |     |     |     |     |
 
-#### May 2025
+**Week 3: March 31-April 6**
+- Monday: Rest day
+- Tuesday: 5 mile easy run
+- Wednesday: Cross training (50 min) + strength
+- Thursday: 6 mile tempo run with hills
+- Friday: Rest day
+- Saturday: 8 mile long run
+- Sunday: Active recovery walk (30 min)
+
+**Week 4: April 7-13**
+- Monday: Rest day
+- Tuesday: 5 mile easy run
+- Wednesday: Cross training (50 min) + strength
+- Thursday: 6 mile hill repeats
+- Friday: Rest day
+- Saturday: 9 mile long run
+- Sunday: Active recovery walk (40 min)
+
+**Week 5: April 14-20**
+- Monday: Rest day
+- Tuesday: 6 mile easy run
+- Wednesday: Cross training (60 min) + strength
+- Thursday: 7 mile tempo run with hills
+- Friday: Rest day
+- Saturday: 10 mile long run
+- Sunday: Active recovery walk (40 min)
+
+**Week 6: April 21-27**
+- Monday: Rest day
+- Tuesday: 6 mile easy run
+- Wednesday: Cross training (60 min) + strength
+- Thursday: 7 mile hill repeats
+- Friday: Rest day
+- Saturday: 11 mile long run
+- Sunday: Active recovery walk (40 min)
+
+**Week 7: April 28-May 4**
+- Monday: Rest day
+- Tuesday: 7 mile easy run
+- Wednesday: Cross training (60 min) + strength
+- Thursday: 8 mile tempo run with hills
+- Friday: Rest day
+- Saturday: 12 mile long run
+- Sunday: Active recovery walk (45 min)
+
+#### May 2025 (Peak Phase)
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     | 1   | 2   | 3   | 4   |
 | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
 | 26  | 27  | 28  | 29  | 30  | 31  |     |
 
-#### June 2025
+**Week 8: May 5-11 (Peak Week)**
+- Monday: Rest day
+- Tuesday: 7 mile easy run
+- Wednesday: Cross training (60 min) + strength
+- Thursday: 8 mile mountain trail run
+- Friday: Rest day
+- Saturday: 14 mile long run
+- Sunday: Active recovery walk (45 min)
+
+**Week 9: May 12-18**
+- Monday: Rest day
+- Tuesday: 8 mile easy run
+- Wednesday: Cross training (60 min) + strength
+- Thursday: 9 mile mountain trail run
+- Friday: Rest day
+- Saturday: 15 mile long run
+- Sunday: Active recovery walk (45 min)
+
+**Week 10: May 19-25**
+- Monday: Rest day
+- Tuesday: 8 mile easy run
+- Wednesday: Cross training (45 min) + strength
+- Thursday: 8 mile tempo run with hills
+- Friday: Rest day
+- Saturday: 12 mile long run
+- Sunday: Active recovery walk (40 min)
+
+**Week 11: May 26-June 1 (Taper Begins)**
+- Monday: Rest day
+- Tuesday: 6 mile easy run
+- Wednesday: Cross training (45 min) + light strength
+- Thursday: 6 mile tempo run
+- Friday: Rest day
+- Saturday: 10 mile long run
+- Sunday: Active recovery walk (30 min)
+
+#### June 2025 (Race Month)
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |     |     |     |     |     |     | 1   |
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14* | 15  |
 
-*Race Day
+**Week 12: June 2-8 (Race Week)**
+- Monday: Rest day
+- Tuesday: 4 mile easy run
+- Wednesday: Light cross training (30 min)
+- Thursday: 3 mile easy run
+- Friday: Rest day
+- Saturday: 2 mile shakeout run
+- Sunday: Rest day
+
+**Race Week: June 9-14**
+- Monday: 2 mile easy run
+- Tuesday: Light cross training (20 min)
+- Wednesday: 2 mile easy run
+- Thursday: Rest day
+- Friday: 1 mile shakeout run
+- Saturday: RACE DAY! 🏃‍♂️
+
+*Race Day - June 14th, 2025
+
+### Training Notes
+- All easy runs should be at a conversational pace
+- Tempo runs include hill work to prepare for the course elevation
+- Cross training can include cycling, swimming, or elliptical
+- Strength training should focus on legs and core
+- Adjust paces and distances based on your fitness level
+- Stay hydrated and practice nutrition during long runs
+- Get adequate rest and recovery between sessions
 
 ## Other Details
 
