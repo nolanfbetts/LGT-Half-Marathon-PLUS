@@ -1,5 +1,22 @@
 # LGT Half Marathon PLUS
 
+## Table of Contents
+- [Overview](#overview)
+- [Event Details](#event-details)
+- [Course Information](#course-information)
+  - [Course Maps](#course-maps)
+    - [Elevation Profile](#elevation-profile)
+    - [Route Map](#route-map)
+- [Training Information](#training-information)
+  - [Training Overview](#training-overview)
+  - [Training Calendar](#training-calendar)
+    - [March 2025 (Training Start)](#march-2025-training-start)
+    - [April 2025 (Building Phase)](#april-2025-building-phase)
+    - [May 2025 (Peak Phase)](#may-2025-peak-phase)
+    - [June 2025 (Race Month)](#june-2025-race-month)
+  - [Training Notes](#training-notes)
+- [Other Details](#other-details)
+
 ## Overview
 
 The LGT marathon takes place in the mountains of the Principality of Liechtenstein, tucked between Switzerland and Austria. The race can be run as a relay, breaking down into 25 kilometer and 17 kilometer segments. The first half of the course starts in the town of Bender, and runs along the Rhine river, through the village of Vaduz, past vineyards of the Prince of Liechtenstein and the famed castle of Vaduz. From there, runners climb through the mountains to the finish at Malbun. The full marathon follows pavement for the first third of the course, then moves onto village paths and tougher mountain trails. The half marathon includes a higher percentage of roads. An added bonus? There aren't many races where you can say you've run from one border of the country to the other once you've finished!
