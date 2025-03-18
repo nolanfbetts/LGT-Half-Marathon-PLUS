@@ -1,0 +1,24 @@
+title: LGT Half Marathon PLUS
+description: Training plan and race information for the LGT Half Marathon PLUS
+theme: jekyll-theme-cayman
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .git
+  - .github
+
+# Navigation
+nav:
+  - title: Overview
+    url: "#overview"
+  - title: Event Details
+    url: "#event-details"
+  - title: Course Information
+    url: "#course-information"
+  - title: Training Plan
+    url: "#training-information" 
