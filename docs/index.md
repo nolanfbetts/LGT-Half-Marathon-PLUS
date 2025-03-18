@@ -4,24 +4,17 @@ title: LGT Half Marathon PLUS
 description: Training plan and race information for the LGT Half Marathon PLUS
 ---
 
-# LGT Half Marathon PLUS
+<nav class="main-nav">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#event-details">Event Details</a></li>
+    <li><a href="#course-information">Course Info</a></li>
+    <li><a href="#training-information">Training Plan</a></li>
+    <li><a href="#training-notes">Training Notes</a></li>
+  </ul>
+</nav>
 
-## Table of Contents
-- [Overview](#overview)
-- [Event Details](#event-details)
-- [Course Information](#course-information)
-  - [Course Maps](#course-maps)
-    - [Elevation Profile](#elevation-profile)
-    - [Route Map](#route-map)
-- [Training Information](#training-information)
-  - [Training Overview](#training-overview)
-  - [Training Calendar](#training-calendar)
-    - [March 2025 (Training Start)](#march-2025-training-start)
-    - [April 2025 (Building Phase)](#april-2025-building-phase)
-    - [May 2025 (Peak Phase)](#may-2025-peak-phase)
-    - [June 2025 (Race Month)](#june-2025-race-month)
-  - [Training Notes](#training-notes)
-- [Other Details](#other-details)
+# LGT Half Marathon PLUS
 
 ## Overview
 
@@ -43,14 +36,19 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 ### Course Maps
 
 #### Elevation Profile
-![LGT Half Marathon PLUS](/assets/images/lgt.jpg)
+<div class="map-container">
+  <img src="/assets/images/lgt.jpg" alt="LGT Half Marathon PLUS Elevation Profile">
+</div>
 
 #### Route Map
-![LGT Route Map](/assets/images/lgt_map.jpg)
+<div class="map-container">
+  <img src="/assets/images/lgt_map.jpg" alt="LGT Route Map">
+</div>
 
 ## Training Information
 
 ### Training Overview
+<div class="training-overview">
 This 12-week training plan is designed to prepare you for the LGT Half Marathon PLUS, with a focus on building endurance and hill strength. The plan includes:
 - 3-4 running days per week
 - 1-2 cross-training days
@@ -58,9 +56,11 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 - 1 active recovery day
 - Progressive long runs
 - Hill training incorporated into tempo runs
+</div>
 
 ### Training Calendar
 
+<div class="calendar-month">
 #### March 2025 (Training Start)
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -70,6 +70,7 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
 | 31  |     |     |     |     |     |     |
 
+<div class="training-week">
 **Week 1: March 17-23 (Base Building)**
 - Monday: Rest day
 - Tuesday: 5km easy run (5:45-6:15/km)
@@ -78,7 +79,9 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 - Friday: Rest day
 - Saturday: 10km long run
 - Sunday: Active recovery walk (30 min)
+</div>
 
+<div class="training-week">
 **Week 2: March 24-30 (Building Volume)**
 - Monday: Rest day
 - Tuesday: 6.5km easy run (5:45-6:15/km)
@@ -87,6 +90,8 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 - Friday: Rest day
 - Saturday: 11km long run
 - Sunday: Active recovery walk (30 min)
+</div>
+</div>
 
 #### April 2025 (Building Phase)
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
@@ -214,6 +219,9 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 *Race Day - June 14th, 2025
 
 ### Training Notes
+{: #training-notes }
+
+<div class="training-notes">
 - All easy runs should be at a conversational pace
 - Tempo runs include hill work to prepare for the course elevation
 - Cross training can include cycling, swimming, or elliptical
@@ -221,7 +229,6 @@ This 12-week training plan is designed to prepare you for the LGT Half Marathon 
 - Adjust paces and distances based on your fitness level
 - Stay hydrated and practice nutrition during long runs
 - Get adequate rest and recovery between sessions
-
-## Other Details
+</div>
 
 --- 

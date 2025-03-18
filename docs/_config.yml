@@ -4,13 +4,23 @@ theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 permalink: pretty
+
+# Site settings
+url: "https://nolanfbetts.github.io"
+baseurl: "/LGT-Half-Marathon-PLUS"
 
 # Exclude from processing
 exclude:
   - README.md
   - .git
   - .github
+  - Gemfile
+  - Gemfile.lock
 
 # Navigation
 nav:
@@ -18,7 +28,9 @@ nav:
     url: "#overview"
   - title: Event Details
     url: "#event-details"
-  - title: Course Information
+  - title: Course Info
     url: "#course-information"
   - title: Training Plan
-    url: "#training-information" 
+    url: "#training-information"
+  - title: Training Notes
+    url: "#training-notes" 
