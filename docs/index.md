@@ -84,13 +84,66 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 </div>
 
 <div class="calendar-grid">
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
-| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
+<table>
+<thead>
+<tr>
+<th>Mon</th>
+<th>Tue</th>
+<th>Wed</th>
+<th>Thu</th>
+<th>Fri</th>
+<th>Sat</th>
+<th>Sun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+</tr>
+<tr>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+</tr>
+<tr>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+</tr>
+<tr>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+</tr>
+<tr>
+<td>31</td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 <div class="training-week">
@@ -175,13 +228,66 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 </div>
 
 <div class="calendar-grid">
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <td class="empty"></td> | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
+<table>
+<thead>
+<tr>
+<th>Mon</th>
+<th>Tue</th>
+<th>Wed</th>
+<th>Thu</th>
+<th>Fri</th>
+<th>Sat</th>
+<th>Sun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="empty"></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+</tr>
+<tr>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+</tr>
+<tr>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+</tr>
+<tr>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 <div class="training-week">
@@ -377,13 +483,66 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 </div>
 
 <div class="calendar-grid">
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 31 | <td class="empty"></td> |
+<table>
+<thead>
+<tr>
+<th>Mon</th>
+<th>Tue</th>
+<th>Wed</th>
+<th>Thu</th>
+<th>Fri</th>
+<th>Sat</th>
+<th>Sun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+</tr>
+<tr>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+</tr>
+<tr>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td class="empty"></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 <div class="training-week">
@@ -542,11 +701,48 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 </div>
 
 <div class="calendar-grid">
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14* | 15 |
+<table>
+<thead>
+<tr>
+<th>Mon</th>
+<th>Tue</th>
+<th>Wed</th>
+<th>Thu</th>
+<th>Fri</th>
+<th>Sat</th>
+<th>Sun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td class="empty"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14*</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
 </div>
 
 <div class="training-week">
