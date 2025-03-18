@@ -78,57 +78,72 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 ### Training Calendar
 
 <div class="calendar-month">
-<h4>March 2025 (Training Start)</h4>
+<div class="month-navigation">
+  <h4>March 2025</h4>
+  <span class="phase-label">Base Building</span>
+</div>
+
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-| 17  | 18  | 19  | 20  | 21  | 22  | 23  |
-| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
-| 31  |     |     |     |     |     |     |
+| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
+| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
 
 <div class="training-week">
 <strong>Week 1: March 17-23 (Base Building)</strong>
 <ul>
-  <li>Monday: Rest day</li>
-  <li>Tuesday: 5km easy run (5:45-6:15/km)</li>
-  <li>Wednesday: Cross training (45 min) + strength</li>
-  <li>Thursday: 6.5km tempo run with hills</li>
-  <li>Friday: Rest day</li>
-  <li>Saturday: 10km long run</li>
-  <li>Sunday: Active recovery walk (30 min)</li>
+  <li><strong>Monday:</strong> Rest day</li>
+  <li><strong>Tuesday:</strong> 5km easy run (5:45-6:15/km)</li>
+  <li><strong>Wednesday:</strong> Cross training (45 min) + strength</li>
+  <li><strong>Thursday:</strong> 6.5km tempo run with hills</li>
+  <li><strong>Friday:</strong> Rest day</li>
+  <li><strong>Saturday:</strong> 10km long run</li>
+  <li><strong>Sunday:</strong> Active recovery walk (30 min)</li>
 </ul>
 </div>
 
 <div class="training-week">
-**Week 2: March 24-30 (Building Volume)**
-- Monday: Rest day
-- Tuesday: 6.5km easy run (5:45-6:15/km)
-- Wednesday: Cross training (45 min) + strength
-- Thursday: 8km tempo run with hills
-- Friday: Rest day
-- Saturday: 11km long run
-- Sunday: Active recovery walk (30 min)
+<strong>Week 2: March 24-30 (Building Volume)</strong>
+<ul>
+  <li><strong>Monday:</strong> Rest day</li>
+  <li><strong>Tuesday:</strong> 6.5km easy run (5:45-6:15/km)</li>
+  <li><strong>Wednesday:</strong> Cross training (45 min) + strength</li>
+  <li><strong>Thursday:</strong> 8km tempo run with hills</li>
+  <li><strong>Friday:</strong> Rest day</li>
+  <li><strong>Saturday:</strong> 11km long run</li>
+  <li><strong>Sunday:</strong> Active recovery walk (30 min)</li>
+</ul>
 </div>
 </div>
 
-#### April 2025 (Building Phase)
+<div class="calendar-month">
+<div class="month-navigation">
+  <h4>April 2025</h4>
+  <span class="phase-label">Building Phase</span>
+</div>
+
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     | 1   | 2   | 3   | 4   | 5   | 6   |
-| 7   | 8   | 9   | 10  | 11  | 12  | 13  |
-| 14  | 15  | 16  | 17  | 18  | 19  | 20  |
-| 21  | 22  | 23  | 24  | 25  | 26  | 27  |
-| 28  | 29  | 30  |     |     |     |     |
+| <td class="empty"></td> | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> |
 
-**Week 3: March 31-April 6**
-- Monday: Rest day
-- Tuesday: 8km easy run
-- Wednesday: Cross training (50 min) + strength
-- Thursday: 10km tempo run with hills
-- Friday: Rest day
-- Saturday: 13km long run
-- Sunday: Active recovery walk (30 min)
+<div class="training-week">
+<strong>Week 3: March 31-April 6</strong>
+<ul>
+  <li><strong>Monday:</strong> Rest day</li>
+  <li><strong>Tuesday:</strong> 8km easy run</li>
+  <li><strong>Wednesday:</strong> Cross training (50 min) + strength</li>
+  <li><strong>Thursday:</strong> 10km tempo run with hills</li>
+  <li><strong>Friday:</strong> Rest day</li>
+  <li><strong>Saturday:</strong> 13km long run</li>
+  <li><strong>Sunday:</strong> Active recovery walk (30 min)</li>
+</ul>
+</div>
 
 **Week 4: April 7-13**
 - Monday: Rest day
@@ -166,14 +181,21 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 - Saturday: 19km long run
 - Sunday: Active recovery walk (45 min)
 
-#### May 2025 (Peak Phase)
+</div>
+
+<div class="calendar-month">
+<div class="month-navigation">
+  <h4>May 2025</h4>
+  <span class="phase-label">Peak Phase</span>
+</div>
+
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     |     |     | 1   | 2   | 3   | 4   |
-| 5   | 6   | 7   | 8   | 9   | 10  | 11  |
-| 12  | 13  | 14  | 15  | 16  | 17  | 18  |
-| 19  | 20  | 21  | 22  | 23  | 24  | 25  |
-| 26  | 27  | 28  | 29  | 30  | 31  |     |
+| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | <td class="empty"></td> |
 
 **Week 8: May 5-11 (Peak Week)**
 - Monday: Rest day
@@ -211,29 +233,45 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 - Saturday: 16km long run
 - Sunday: Active recovery walk (30 min)
 
-#### June 2025 (Race Month)
+</div>
+
+<div class="calendar-month">
+<div class="month-navigation">
+  <h4>June 2025</h4>
+  <span class="phase-label">Race Month</span>
+</div>
+
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     |     |     |     |     |     | 1   |
-| 2   | 3   | 4   | 5   | 6   | 7   | 8   |
-| 9   | 10  | 11  | 12  | 13  | 14* | 15  |
+| <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | <td class="empty"></td> | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14* | 15 |
 
-**Week 12: June 2-8 (Race Week)**
-- Monday: Rest day
-- Tuesday: 6.5km easy run
-- Wednesday: Light cross training (30 min)
-- Thursday: 5km easy run
-- Friday: Rest day
-- Saturday: 3km shakeout run
-- Sunday: Rest day
+<div class="training-week">
+<strong>Week 12: June 2-8 (Taper Week)</strong>
+<ul>
+  <li><strong>Monday:</strong> Rest day</li>
+  <li><strong>Tuesday:</strong> 6.5km easy run</li>
+  <li><strong>Wednesday:</strong> Light cross training (30 min)</li>
+  <li><strong>Thursday:</strong> 5km easy run</li>
+  <li><strong>Friday:</strong> Rest day</li>
+  <li><strong>Saturday:</strong> 3km shakeout run</li>
+  <li><strong>Sunday:</strong> Rest day</li>
+</ul>
+</div>
 
-**Race Week: June 9-14**
-- Monday: 3km easy run
-- Tuesday: Light cross training (20 min)
-- Wednesday: 3km easy run
-- Thursday: Rest day
-- Friday: 2km shakeout run
-- Saturday: RACE DAY! 🏃‍♂️
+<div class="training-week">
+<strong>Race Week: June 9-14</strong>
+<ul>
+  <li><strong>Monday:</strong> 3km easy run</li>
+  <li><strong>Tuesday:</strong> Light cross training (20 min)</li>
+  <li><strong>Wednesday:</strong> 3km easy run</li>
+  <li><strong>Thursday:</strong> Rest day</li>
+  <li><strong>Friday:</strong> 2km shakeout run</li>
+  <li><strong>Saturday:</strong> RACE DAY! 🏃‍♂️</li>
+</ul>
+</div>
+</div>
 
 *Race Day - June 14th, 2025
 
@@ -252,4 +290,5 @@ The LGT marathon takes place in the mountains of the Principality of Liechtenste
 </ul>
 </div>
 
+--- 
 --- 
